@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm currently studying **Computer systems engineering**
 
-- 📫 How to reach me **alexcisnerosma23@gmail.com**
+- 📫 How to reach me **martinezcisnerosalexander@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
