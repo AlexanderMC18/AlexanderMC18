@@ -16,7 +16,6 @@ Passionate about backend development, mobile applications, APIs, and modern web 
 - 📱 Mobile app developer using Android & Flutter
 - ⚙️ Passionate about APIs, databases, and system architecture
 - 🎯 Constantly learning new technologies
-- 🎓 Computer Systems Engineering Student
 - 🌎 Based in Mexico
 
 ---
